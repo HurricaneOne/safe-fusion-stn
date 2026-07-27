@@ -1,0 +1,2 @@
+cell_type,is_rare,labeled_count,fill_fraction,pr_auc,roc_auc,precision_at_threshold,recall_at_threshold,f1_at_threshold
+monocytes,False,284,0.0497578,0.10718047018278257,0.472654835204636,0.0,0.0,0.0

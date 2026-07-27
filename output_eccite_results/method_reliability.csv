@@ -1,0 +1,3 @@
+method,marker_gain,control_fp,rare_support,ground_truth_ap,ground_truth_auc,disagreement_penalty
+scVI,0.0,0.2840988,0.0,0.10718047018278257,0.472654835204636,0.3671358525753021
+graph_smooth,0.0,0.0,0.0,0.11619718309859155,0.5,0.3671358525753021
