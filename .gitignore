@@ -36,3 +36,4 @@ scripts/inspect_h5ad_metadata.py
 scripts/plot_frontier_figures.py
 scripts/controlled_dropout_benchmark.py
 68be1e635c9dc04567b1d38b/*.h5mu 
+*.h5 
